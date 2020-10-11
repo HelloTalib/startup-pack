@@ -1,7 +1,7 @@
 {
-  "name": "startup-pack",
+  "name": "start",
   "version": "1.0.0",
-  "description": "startup-pack uikit practice series",
+  "description": "start uikit practice series",
   "main": "index.js",
   "author": "TALIB",
   "license": "MIT",
@@ -12,5 +12,8 @@
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^7.1.0"
   }
 }

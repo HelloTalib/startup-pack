@@ -1,4 +1,4 @@
-# Startup-Pack uikit template
+# Start uikit template
 
 ### Version
 1.0.0
